@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "!Characters_Tulivel",
-      "path": "!Characters_Tulivel.md"
+      "basename": "!Characters_Gedric Galagan",
+      "path": "!Characters_Gedric Galagan.md"
+    },
+    {
+      "basename": "!Characters_Big-Momma Grim",
+      "path": "!Characters_Big-Momma Grim.md"
+    },
+    {
+      "basename": "!Factions_The Arcanist Guild",
+      "path": "!Factions_The Arcanist Guild.md"
+    },
+    {
+      "basename": "!Characters_Hwyn (The Beastiologist)",
+      "path": "!Characters_Hwyn (The Beastiologist).md"
+    },
+    {
+      "basename": "!Factions_The Grims",
+      "path": "!Factions_The Grims.md"
     },
     {
       "basename": "!Characters",
       "path": "!Characters.md"
+    },
+    {
+      "basename": "!Characters_Tulivel",
+      "path": "!Characters_Tulivel.md"
     },
     {
       "basename": "!",
@@ -15,10 +35,6 @@
     {
       "basename": "!Characters_Savgon the Savvy",
       "path": "!Characters_Savgon the Savvy.md"
-    },
-    {
-      "basename": "!Characters_Gedric Galagan",
-      "path": "!Characters_Gedric Galagan.md"
     },
     {
       "basename": "!Characters_Bjort the Bold",
@@ -121,14 +137,6 @@
       "path": "!Places_Stormhaven.md"
     },
     {
-      "basename": "!Factions_The Grims",
-      "path": "!Factions_The Grims.md"
-    },
-    {
-      "basename": "!Characters_Big Momma (Grims)",
-      "path": "!Characters_Big Momma (Grims).md"
-    },
-    {
       "basename": "!Characters_Rostam Kobayashi",
       "path": "!Characters_Rostam Kobayashi.md"
     },
@@ -185,20 +193,8 @@
       "path": "!Characters_Thalindor the Wise.md"
     },
     {
-      "basename": "!Factions_The Arcanist Guild",
-      "path": "!Factions_The Arcanist Guild.md"
-    },
-    {
       "basename": "!Places_The Sapphire Islands",
       "path": "!Places_The Sapphire Islands.md"
-    },
-    {
-      "basename": "!Places_Scalefrost Headlands",
-      "path": "!Places_Scalefrost Headlands.md"
-    },
-    {
-      "basename": "!Places_Mogravia",
-      "path": "!Places_Mogravia.md"
     }
   ],
   "omittedPaths": [],

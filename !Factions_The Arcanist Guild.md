@@ -1,5 +1,5 @@
 up::[[!Factions]]
-tags::[[!DW_Character s_Lafayette]][[!DW_Places_Stormhaven]]
+tags::[[!Characters_Lafayette]][[!Places_Stormhaven]]
 
 Wizards and shit.
 

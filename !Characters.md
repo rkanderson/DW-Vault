@@ -1,18 +1,20 @@
 
 
-
-# Children
+# Children Notes
 ```dataview
 LIST
-WHERE contains(file.name, "!DW_Characters") AND file.name != "!DW_Characters"
+WHERE contains(file.name, "!Characters") AND file.name != "!Characters"
 SORT file.name asc
 ```
 
-# Tagged
+# Tagged Notes
 ```dataview
 LIST
-WHERE contains(tags+"[[]]", "!DW_Characters")
-SORT file.name desc
+WHERE contains(tags+"[[]]", "!Characters")
+SORT file.name asc
 ```
 
-
+# Secret Zone 👀
+```spoiler-block
+SECRETS!
+```
