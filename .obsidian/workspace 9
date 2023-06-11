@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "9951f0334c18791a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cac7c45d325fdb8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_newComputerResearch2022_.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e07b873991f8975",
+    "type": "split",
+    "children": [
+      {
+        "id": "df4ba9455bf7885e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d37c3d5843f6999b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "730c6f429a381b05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b3b01b3ebfdc40c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b540333f78f33fee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eec5a831bf42f28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71e2f069a464faba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_newComputerResearch2022_.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fdbcf1f3031d290",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_newComputerResearch2022_.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5cac7c45d325fdb8",
+  "lastOpenFiles": []
+}

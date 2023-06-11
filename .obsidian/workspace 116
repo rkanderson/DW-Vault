@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "277f328280dc63ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "20318cb1c0fb0c79",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Conversation with Edmund on Writing (220817,18).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6b8fd336c4ec718",
+    "type": "split",
+    "children": [
+      {
+        "id": "e49fd8953ed74df3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c879b3e9198f5b45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9382966847b89fb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6d50292683cd386",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb9658e08ce6ee93",
+    "type": "split",
+    "children": [
+      {
+        "id": "29a494ff618677a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f00de7dfcf655481",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conversation with Edmund on Writing (220817,18).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9fc8e512952572e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conversation with Edmund on Writing (220817,18).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "20318cb1c0fb0c79",
+  "lastOpenFiles": [
+    "Rpg theory project lens- look at them development chronologically wise, or my own journey, can consider that (220817,16).md"
+  ]
+}

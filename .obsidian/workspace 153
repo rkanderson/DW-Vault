@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "c6cf7501f7aabe5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec213176da024e24",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Biology...Pacific Luskow 2022 (220819).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea3c8608de214ed5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ce372695153f7a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed829e5c989209d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c07859975b719aef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d98099785c2aa689",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c34e2389d41538e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1f9bf77cd6cf1ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b41db841e5c9779",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Biology...Pacific Luskow 2022 (220819).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a32bba50c04141f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Biology...Pacific Luskow 2022 (220819).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ec213176da024e24",
+  "lastOpenFiles": [
+    "Florian and Evgeny's Research on Polar Salps aka Pelagic Tunicates (220818,15).md",
+    "2022-08-19.md"
+  ]
+}

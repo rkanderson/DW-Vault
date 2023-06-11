@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "c6cf7501f7aabe5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec213176da024e24",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "When can I post as a GM ?- (221013,21).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "060462d64f52e944",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "92755ec2eba73b93",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a9a8821f0ad8fd49",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bdaa9425abaa9e10",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a15fc0480e1d2f1d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ca011242ba5d0fc3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "When can I post as a GM ?- (221013,21).md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2e64a2270c6b9b82",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "When can I post as a GM ?- (221013,21).md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "ec213176da024e24",
+  "lastOpenFiles": [
+    "--- (221013,12).md",
+    "2022-10-13.md",
+    "Many RPGs I am thinking about making (221013,10).md",
+    "Goal Snapshots I feel effectively capture my goals (221013,10).md",
+    "_ATLA-rpg_.md",
+    "Debugging, the trained network sucks (221011,10).md",
+    "Overfitting in ML (221012,20).md",
+    "2022-10-12.md",
+    "ATLA Campaign Worldbuilding Lore and Stuff (221004,20).md",
+    "What players want for the ATLA campaign- (221012,11).md"
+  ]
+}

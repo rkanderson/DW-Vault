@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "f010766523d75759",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed40409086c2a0d4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_sprintOperations_.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc67245a719b1151",
+    "type": "split",
+    "children": [
+      {
+        "id": "f364b5574400e2a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2f1ff9d114bb889",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d691f90fa55990a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e64e1476b4f38695",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a7e9f4b37293c22",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8261eecefe9b91e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a63a314d941817",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_sprintOperations_.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f49e4dc46d9ef73d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_sprintOperations_.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ed40409086c2a0d4",
+  "lastOpenFiles": [
+    "Small timer research (220814).md",
+    "A Summer Trip to Vancouver and UBC -- (220813,14).md",
+    "UBC Graduate School Application Webinar (220810,10).md",
+    "_ubc_.md",
+    "UBC Graduate Studies Information (220613,22).md",
+    "7th sea Lite version cheat sheet  -- (220813,14).md",
+    "Ugo Fubini (Seventh Sea Character) (220627).md",
+    "_seventhSea_.md",
+    "Thrift Stores Online alternatives to Amazon buying (220813).md",
+    "Charin Park - (220719,12).md"
+  ]
+}

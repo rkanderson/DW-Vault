@@ -1,0 +1,29 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:set-heading",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:attach-file",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:configure-toolbar",
+    "editor:fold-all",
+    "editor:unfold-all",
+    "workspace:edit-file-title"
+  ],
+  "mobilePullAction": "zk-prefixer",
+  "fileSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "000 🌻 Garden",
+  "attachmentFolderPath": "Extras",
+  "newLinkFormat": "shortest",
+  "spellcheck": false
+}

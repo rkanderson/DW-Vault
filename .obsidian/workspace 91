@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "d8f7e41c7b36a281",
+    "type": "split",
+    "children": [
+      {
+        "id": "8318fce5373ede6d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Benjamin Meeting - (220803,10).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b30c5c595e5600a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4047a593b8a4e8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81adea767fc8e181",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fe3c3bb6cf08b10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "724d60c446acf198",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af1ed62241863479",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e122c9b6a56f4a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "194aa9f7602c22e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Benjamin Meeting - (220803,10).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08023cb5d33d3355",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Benjamin Meeting - (220803,10).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8318fce5373ede6d",
+  "lastOpenFiles": [
+    "Performance Metrics for classification problems (220816).md",
+    "Log- HAR Pipeline Creation- (220706,15).md",
+    "Benjamin Meeting - (220803,10).md",
+    "OPERATION HAMMERHEAD (220815,11).md"
+  ]
+}

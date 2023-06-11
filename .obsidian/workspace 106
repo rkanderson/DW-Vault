@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "57547418d12333cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd4a9125a163e428",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Benjamin Meeting - (220817,11).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a426452048076d52",
+    "type": "split",
+    "children": [
+      {
+        "id": "78434587e3994ff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfbad270d0351213",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "39fe6170b216e466",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9040fd1d26cc47a2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3c81ee5636bcd76",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b25a90b5389d103",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b7821274abf90bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Benjamin Meeting - (220817,11).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bf3e13b17757992",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Benjamin Meeting - (220817,11).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dd4a9125a163e428",
+  "lastOpenFiles": []
+}

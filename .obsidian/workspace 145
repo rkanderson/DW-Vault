@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "179dce952a7ee9b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "66c4b81c98064b9c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "--- (220819,09).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1668d1ef52ec552",
+    "type": "split",
+    "children": [
+      {
+        "id": "494bde3b5c4dd023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a9af1099c528c13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "15f8d69b98d0595b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9c1fb90ada90549",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e2213ab5fd98c3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "68c599c098425bf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e70350cd8b22f1f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "--- (220819,09).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85f4be2c489b6ce2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "--- (220819,09).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "66c4b81c98064b9c",
+  "lastOpenFiles": [
+    "How to Sell on eBay (220818,21).md",
+    "Full-Time EBay-er? (220818,21).md",
+    "2022-08-18.md",
+    "Salp...Ocean Pakhomov 2004 (220818).md",
+    "Pakhomov 2004.pdf",
+    "The Value of good Email address domain (220612,23).md",
+    "OPERATION HAMMERHEAD (220815,11).md",
+    "Florian and Evgeny's Research on Polar Salps aka Pelagic Tunicates (220818,15).md"
+  ]
+}

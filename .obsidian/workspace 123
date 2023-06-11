@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "f41ec11ff47299e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "516213ba3fe16d90",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "OPERATION HAMMERHEAD (220815,11).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12ac3427b2ebab7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "03184d3042a63873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6469ebbd45aa8168",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9da26d6282ee1499",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "060212a6276383c4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "116d57e9facde31a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9e6a2a226ecb52f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65f4d0ff292eb582",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OPERATION HAMMERHEAD (220815,11).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7589615b9279b4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OPERATION HAMMERHEAD (220815,11).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "516213ba3fe16d90",
+  "lastOpenFiles": [
+    "2022-08-18.md"
+  ]
+}

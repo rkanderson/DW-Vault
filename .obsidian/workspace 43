@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "614605571bcfca23",
+    "type": "split",
+    "children": [
+      {
+        "id": "d132bfe848331b0c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "OPERATION FLOUNDER 2.0-- (220728,17).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec7c791c752e33cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "812bc6c4a12206e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd8ccb379f96268d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "29236adc3f02ceeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d73933714afb27a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7162d10d8d47064",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f28f1e6faff0f7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dba5bdfcc1afbf74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OPERATION FLOUNDER 2.0-- (220728,17).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95b3f0bcb7dd8aac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OPERATION FLOUNDER 2.0-- (220728,17).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d132bfe848331b0c",
+  "lastOpenFiles": [
+    "2022-07-28 2.md",
+    "OPERATION FLOUNDER 2.0-- (220728,17).md"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "45303ec819f555b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b5606b1f9eaaa46",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-07-28.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45883f65bea7efc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c4def1ffd45f2ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb128acafec78825",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a90abc4c468e122a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec198f6b2edd3105",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "196ce0097b7d41e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2577276948333dcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "897d3412f9baa41f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-07-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f86a74b045cd4982",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-07-28.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5b5606b1f9eaaa46",
+  "lastOpenFiles": [
+    "\"Pimp my Ramen\" Noodles (220728,17).md",
+    "Ryan Anderson's Simple Taco Filling (220728,17).md",
+    "PETA Microwave Recipes for Students (220728,17).md",
+    "Jellyfish Invading Japanese Oceans Documentary  (220727,15).md",
+    "2022-07-27.md",
+    "Using...Aggregations Schaub, UAVs for measuring jellyfish aggregations (220726).md",
+    "Carmelizing onions via microwave (220624,21).md",
+    "_microwaveCooking_.md"
+  ]
+}

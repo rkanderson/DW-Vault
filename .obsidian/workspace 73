@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "90010d86357d93c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "47317d537feefbf7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "A Technique for Remembering Multiple Ideas (220731,22).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abcf7658f1b45a7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea0ce79e2d2768d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a4528f2da1b5397",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "579e6c58108cdc3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f27362b8bb8118df",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46c6a129e50de7d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e536221058c1c7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d31e49780ef2da9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A Technique for Remembering Multiple Ideas (220731,22).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bb1a0a94efbf869",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A Technique for Remembering Multiple Ideas (220731,22).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "47317d537feefbf7",
+  "lastOpenFiles": [
+    "_memory_.md"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "520b2e4f65958551",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4601ca2b7bed802",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "OPERATION FLOUNDER (072522).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c3ba77a00b392c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e60eea92f7c18f40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6333cf8f89314791",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ab65e2c5189c452",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74d235dfe64c3424",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eff1d7fa65159dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "2312c553a8f53648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4faf6b707396a556",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OPERATION FLOUNDER (072522).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0f08e2a76db50ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OPERATION FLOUNDER (072522).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d4601ca2b7bed802",
+  "lastOpenFiles": [
+    "OPERATION ELEPHANT SNAIL - (220718,15).md",
+    "GOAL MAP ANUBIS- (220718,19).md",
+    "Close Friend Availabilities for Summer22- (220718,10).md",
+    "Marie Kondo Tidying Book - (220712,17).md",
+    "human poses and movement as an appeal for calligraphy beauty and aesthetic (220724).md",
+    "Another Orthagraphy Iteration - (220617,16).md",
+    "What makes calligraphy beautiful (220628).md",
+    "TODOist for managing time allocation, executive tasks, and issues&curiosities (220615,13).md",
+    "2022-06-18.md",
+    "_lifeInfrastructure_.md"
+  ]
+}
