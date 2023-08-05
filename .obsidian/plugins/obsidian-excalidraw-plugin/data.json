@@ -72,7 +72,61 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.12",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "line",
+            "version": 349,
+            "versionNonce": 1319776532,
+            "isDeleted": false,
+            "id": "UEO9G2Oh3SdK6MxItRaRk",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": 899.296194398793,
+            "y": -134.9792422566416,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 33.92336637046549,
+            "height": 43.765379116013435,
+            "seed": 1886795692,
+            "groupIds": [],
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1691211874062,
+            "link": null,
+            "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                15.816259621382528,
+                -43.765379116013435
+              ],
+              [
+                33.92336637046549,
+                -1.4984650732559714
+              ]
+            ]
+          }
+        ],
+        "id": "g7YnGhG6CS92G-wTAjwg9",
+        "created": 1691211890123
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
