@@ -207,13 +207,23 @@
       "key": "]"
     }
   ],
-  "templater-obsidian:insert-templater": [
+  "templater-obsidian:insert-templater": [],
+  "templater-obsidian:Extras/Templates/TEMPLATE_0-Standard.md": [
     {
       "modifiers": [
         "Ctrl",
         "Mod"
       ],
       "key": "M"
+    }
+  ],
+  "templater-obsidian:Extras/Templates/TEMPLATE_Query Children and Tagged w separate sections for categories.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "H"
     }
   ]
 }

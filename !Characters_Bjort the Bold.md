@@ -1,4 +1,4 @@
-
+tags:: [[!Characters_Amberi]] [[!Characters_Mendel]] [[!Places_Stormhaven]] [[!Places_The Sapphire Islands]]
 
 
 Attempted to conquer the Sapphire Islands, but failed.

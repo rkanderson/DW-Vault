@@ -1,5 +1,5 @@
 up:: [[!Factions]]
-tags:: [[!Characters_Amberi]] [[!Characters_Lafayette]] [[!Places_Temple of Eternal Shadows]]
+tags:: [[!Characters_Amberi]] [[!Characters_Lafayette]] [[!Places_Temple of Eternal Shadows]] [[!Things_The Scarlet Sprouts]]
 
 
 # Children Notes

@@ -3,5 +3,10 @@ tags:: [[!Characters_Big-Momma Grim]] [[!Places_Stormhaven]] [[!Characters_Lafay
 
 Crime family that deals with sketchy magical artifacts.
 
-Secretly siphons off of Arcanist Guild's big stash.
+Anyone who joins the family must change their last name to "Grim"
+
+Big-Momma Grim is currently the matriarch.
+
+
+
 

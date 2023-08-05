@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "DW-Map.excalidraw",
+      "path": "DW-Map.excalidraw.md"
+    },
+    {
+      "basename": "!Monsters_Immolosaurs",
+      "path": "!Monsters_Immolosaurs.md"
+    },
+    {
+      "basename": "!Monsters",
+      "path": "!Monsters.md"
+    },
+    {
+      "basename": "!",
+      "path": "!.md"
+    },
+    {
+      "basename": "!Factions",
+      "path": "!Factions.md"
+    },
+    {
+      "basename": "!Characters_Bjort the Bold",
+      "path": "!Characters_Bjort the Bold.md"
+    },
+    {
+      "basename": "!Places_Stormhaven",
+      "path": "!Places_Stormhaven.md"
+    },
+    {
+      "basename": "!Monsters_The Iron Sentinels",
+      "path": "!Monsters_The Iron Sentinels.md"
+    },
+    {
+      "basename": "!Characters_Tulivel",
+      "path": "!Characters_Tulivel.md"
+    },
+    {
+      "basename": "!Things_The Scarlet Sprouts",
+      "path": "!Things_The Scarlet Sprouts.md"
+    },
+    {
+      "basename": "!Factions_The Circle of Night",
+      "path": "!Factions_The Circle of Night.md"
+    },
+    {
+      "basename": "!Characters_Amberi",
+      "path": "!Characters_Amberi.md"
+    },
+    {
+      "basename": "!Characters",
+      "path": "!Characters.md"
+    },
+    {
+      "basename": "TEMPLATE_0-Standard",
+      "path": "Extras/Templates/TEMPLATE_0-Standard.md"
+    },
+    {
+      "basename": "TEMPLATE_Query Children and Tagged w separate sections for categories",
+      "path": "Extras/Templates/TEMPLATE_Query Children and Tagged w separate sections for categories.md"
+    },
+    {
+      "basename": "!Gods",
+      "path": "!Gods.md"
+    },
+    {
+      "basename": "!Characters_Mendel",
+      "path": "!Characters_Mendel.md"
+    },
+    {
+      "basename": "!Players_Mark",
+      "path": "!Players_Mark.md"
+    },
+    {
+      "basename": "!Things_The Maelstrom",
+      "path": "!Things_The Maelstrom.md"
+    },
+    {
+      "basename": "!Characters_Thalindor the Wise",
+      "path": "!Characters_Thalindor the Wise.md"
+    },
+    {
       "basename": "!Characters_Gedric Galagan",
       "path": "!Characters_Gedric Galagan.md"
     },
@@ -9,52 +89,24 @@
       "path": "!Characters_Big-Momma Grim.md"
     },
     {
-      "basename": "!Factions_The Arcanist Guild",
-      "path": "!Factions_The Arcanist Guild.md"
+      "basename": "!Factions_The Grims",
+      "path": "!Factions_The Grims.md"
     },
     {
       "basename": "!Characters_Hwyn (The Beastiologist)",
       "path": "!Characters_Hwyn (The Beastiologist).md"
     },
     {
-      "basename": "!Factions_The Grims",
-      "path": "!Factions_The Grims.md"
-    },
-    {
-      "basename": "!Characters",
-      "path": "!Characters.md"
-    },
-    {
-      "basename": "!Characters_Tulivel",
-      "path": "!Characters_Tulivel.md"
-    },
-    {
-      "basename": "!",
-      "path": "!.md"
+      "basename": "!Factions_The Arcanist Guild",
+      "path": "!Factions_The Arcanist Guild.md"
     },
     {
       "basename": "!Characters_Savgon the Savvy",
       "path": "!Characters_Savgon the Savvy.md"
     },
     {
-      "basename": "!Characters_Bjort the Bold",
-      "path": "!Characters_Bjort the Bold.md"
-    },
-    {
-      "basename": "TEMPLATE_0-Standard",
-      "path": "Extras/Templates/TEMPLATE_0-Standard.md"
-    },
-    {
       "basename": "!Places_Vakia_Ember Isand",
       "path": "!Places_Vakia_Ember Isand.md"
-    },
-    {
-      "basename": "!Factions_The Circle of Night",
-      "path": "!Factions_The Circle of Night.md"
-    },
-    {
-      "basename": "!Factions",
-      "path": "!Factions.md"
     },
     {
       "basename": "!Things_Lafayette's Mask",
@@ -101,10 +153,6 @@
       "path": "!Monsters_Carnigourds.md"
     },
     {
-      "basename": "!Monsters_The Iron Sentinels",
-      "path": "!Monsters_The Iron Sentinels.md"
-    },
-    {
       "basename": "!Characters_Worberd",
       "path": "!Characters_Worberd.md"
     },
@@ -129,14 +177,6 @@
       "path": "!Places_Blackwater.md"
     },
     {
-      "basename": "!Monsters",
-      "path": "!Monsters.md"
-    },
-    {
-      "basename": "!Places_Stormhaven",
-      "path": "!Places_Stormhaven.md"
-    },
-    {
       "basename": "!Characters_Rostam Kobayashi",
       "path": "!Characters_Rostam Kobayashi.md"
     },
@@ -149,10 +189,6 @@
       "path": "!Places_Vakia.md"
     },
     {
-      "basename": "!Characters_Amberi",
-      "path": "!Characters_Amberi.md"
-    },
-    {
       "basename": "!Players_Evan",
       "path": "!Players_Evan.md"
     },
@@ -163,38 +199,6 @@
     {
       "basename": "!Players_Daryoush",
       "path": "!Players_Daryoush.md"
-    },
-    {
-      "basename": "!Players_Harshith",
-      "path": "!Players_Harshith.md"
-    },
-    {
-      "basename": "!Things_The Orb of Norb",
-      "path": "!Things_The Orb of Norb.md"
-    },
-    {
-      "basename": "!Things",
-      "path": "!Things.md"
-    },
-    {
-      "basename": "!Places_Temple of Eternal Shadows",
-      "path": "!Places_Temple of Eternal Shadows.md"
-    },
-    {
-      "basename": "!Players",
-      "path": "!Players.md"
-    },
-    {
-      "basename": "!Characters_Lafayette",
-      "path": "!Characters_Lafayette.md"
-    },
-    {
-      "basename": "!Characters_Thalindor the Wise",
-      "path": "!Characters_Thalindor the Wise.md"
-    },
-    {
-      "basename": "!Places_The Sapphire Islands",
-      "path": "!Places_The Sapphire Islands.md"
     }
   ],
   "omittedPaths": [],
