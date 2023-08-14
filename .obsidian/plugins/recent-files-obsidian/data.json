@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "!Places_Stormhaven_The Shadow District",
+      "path": "!Places_Stormhaven_The Shadow District.md"
+    },
+    {
+      "basename": "!Places_Stormhaven",
+      "path": "!Places_Stormhaven.md"
+    },
+    {
+      "basename": "!Races_Elven Deepkin",
+      "path": "!Races_Elven Deepkin.md"
+    },
+    {
+      "basename": "!Races_Ossoids",
+      "path": "!Races_Ossoids.md"
+    },
+    {
       "basename": "DW-Map.excalidraw",
       "path": "DW-Map.excalidraw.md"
     },
     {
       "basename": "!",
       "path": "!.md"
+    },
+    {
+      "basename": "!Races",
+      "path": "!Races.md"
+    },
+    {
+      "basename": "!Factions_The Grims",
+      "path": "!Factions_The Grims.md"
     },
     {
       "basename": "!Monsters_Immolosaurs",
@@ -23,10 +47,6 @@
     {
       "basename": "!Characters_Bjort the Bold",
       "path": "!Characters_Bjort the Bold.md"
-    },
-    {
-      "basename": "!Places_Stormhaven",
-      "path": "!Places_Stormhaven.md"
     },
     {
       "basename": "!Monsters_The Iron Sentinels",
@@ -87,10 +107,6 @@
     {
       "basename": "!Characters_Big-Momma Grim",
       "path": "!Characters_Big-Momma Grim.md"
-    },
-    {
-      "basename": "!Factions_The Grims",
-      "path": "!Factions_The Grims.md"
     },
     {
       "basename": "!Characters_Hwyn (The Beastiologist)",
@@ -183,22 +199,6 @@
     {
       "basename": "!Places",
       "path": "!Places.md"
-    },
-    {
-      "basename": "!Places_Vakia",
-      "path": "!Places_Vakia.md"
-    },
-    {
-      "basename": "!Players_Evan",
-      "path": "!Players_Evan.md"
-    },
-    {
-      "basename": "!Players_Anjali",
-      "path": "!Players_Anjali.md"
-    },
-    {
-      "basename": "!Players_Daryoush",
-      "path": "!Players_Daryoush.md"
     }
   ],
   "omittedPaths": [],
