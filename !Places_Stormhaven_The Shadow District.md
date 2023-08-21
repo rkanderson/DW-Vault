@@ -1,3 +1,7 @@
+---
+quickshare-date: 2023-08-13 22:26:19
+quickshare-url: "https://noteshare.space/note/cllafmh01971001mw2a4bnmss#D6YqQGyuZ72osk7VRFKkkAI2CeZSgUCsFY1zEWosfBg"
+---
 up:: [[!Places_Stormhaven]]
 tags:: [[!Factions_The Grims]]
 

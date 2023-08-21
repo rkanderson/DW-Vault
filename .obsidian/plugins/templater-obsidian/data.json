@@ -22,7 +22,10 @@
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
     "Extras/Templates/TEMPLATE_0-Standard.md",
-    "Extras/Templates/TEMPLATE_Query Children and Tagged w separate sections for categories.md"
+    "Extras/Templates/TEMPLATE_Query Children and Tagged w separate sections for categories.md",
+    "Extras/Templates/TEMPLATE_1-Child Notes.md",
+    "Extras/Templates/TEMPLATE_2-Tagged Notes.md",
+    "Extras/Templates/TEMPLATE_3-Secret Zone.md"
   ],
   "startup_templates": [
     ""

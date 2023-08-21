@@ -225,5 +225,32 @@
       ],
       "key": "H"
     }
+  ],
+  "templater-obsidian:Extras/Templates/TEMPLATE_1-Child Notes.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "templater-obsidian:Extras/Templates/TEMPLATE_2-Tagged Notes.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "templater-obsidian:Extras/Templates/TEMPLATE_3-Secret Zone.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }

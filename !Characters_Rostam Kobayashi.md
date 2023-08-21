@@ -1,3 +1,5 @@
 up::[[!Characters]]
-tags:: [[!Places_Vakia]] [[!Characters_Lafayette]] [[!Places_Stormhaven]]
+tags:: [[!Places_Vakia]] [[!Characters_Lafayette]] [[!Places_Stormhaven]] [[!Characters_Yagaba]]
+
+
 

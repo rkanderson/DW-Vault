@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "!Characters_Yagaba",
+      "path": "!Characters_Yagaba.md"
+    },
+    {
+      "basename": "TEMPLATE_3-Secret Zone",
+      "path": "Extras/Templates/TEMPLATE_3-Secret Zone.md"
+    },
+    {
+      "basename": "TEMPLATE_2-Tagged Notes",
+      "path": "Extras/Templates/TEMPLATE_2-Tagged Notes.md"
+    },
+    {
+      "basename": "TEMPLATE_1-Child Notes",
+      "path": "Extras/Templates/TEMPLATE_1-Child Notes.md"
+    },
+    {
+      "basename": "TEMPLATE_0-Standard",
+      "path": "Extras/Templates/TEMPLATE_0-Standard.md"
+    },
+    {
+      "basename": "!Characters_Lafayette",
+      "path": "!Characters_Lafayette.md"
+    },
+    {
+      "basename": "!Characters_Rostam Kobayashi",
+      "path": "!Characters_Rostam Kobayashi.md"
+    },
+    {
+      "basename": "!Places_Deserts of Despair",
+      "path": "!Places_Deserts of Despair.md"
+    },
+    {
+      "basename": "!Things_The Scarlet Sprouts",
+      "path": "!Things_The Scarlet Sprouts.md"
+    },
+    {
+      "basename": "DW-Map.excalidraw",
+      "path": "DW-Map.excalidraw.md"
+    },
+    {
+      "basename": "!Monsters_Formians",
+      "path": "!Monsters_Formians.md"
+    },
+    {
+      "basename": "!",
+      "path": "!.md"
+    },
+    {
       "basename": "!Places_Stormhaven_The Shadow District",
       "path": "!Places_Stormhaven_The Shadow District.md"
     },
@@ -15,14 +63,6 @@
     {
       "basename": "!Races_Ossoids",
       "path": "!Races_Ossoids.md"
-    },
-    {
-      "basename": "DW-Map.excalidraw",
-      "path": "DW-Map.excalidraw.md"
-    },
-    {
-      "basename": "!",
-      "path": "!.md"
     },
     {
       "basename": "!Races",
@@ -57,10 +97,6 @@
       "path": "!Characters_Tulivel.md"
     },
     {
-      "basename": "!Things_The Scarlet Sprouts",
-      "path": "!Things_The Scarlet Sprouts.md"
-    },
-    {
       "basename": "!Factions_The Circle of Night",
       "path": "!Factions_The Circle of Night.md"
     },
@@ -71,10 +107,6 @@
     {
       "basename": "!Characters",
       "path": "!Characters.md"
-    },
-    {
-      "basename": "TEMPLATE_0-Standard",
-      "path": "Extras/Templates/TEMPLATE_0-Standard.md"
     },
     {
       "basename": "TEMPLATE_Query Children and Tagged w separate sections for categories",
@@ -167,38 +199,6 @@
     {
       "basename": "!Monsters_Carnigourds",
       "path": "!Monsters_Carnigourds.md"
-    },
-    {
-      "basename": "!Characters_Worberd",
-      "path": "!Characters_Worberd.md"
-    },
-    {
-      "basename": "!Characters_Dew",
-      "path": "!Characters_Dew.md"
-    },
-    {
-      "basename": "!Characters_Manny (The Tavern Keeper)",
-      "path": "!Characters_Manny (The Tavern Keeper).md"
-    },
-    {
-      "basename": "!Monsters_The Grey Phantom",
-      "path": "!Monsters_The Grey Phantom.md"
-    },
-    {
-      "basename": "!Characters_The Archmagus Norb",
-      "path": "!Characters_The Archmagus Norb.md"
-    },
-    {
-      "basename": "!Places_Blackwater",
-      "path": "!Places_Blackwater.md"
-    },
-    {
-      "basename": "!Characters_Rostam Kobayashi",
-      "path": "!Characters_Rostam Kobayashi.md"
-    },
-    {
-      "basename": "!Places",
-      "path": "!Places.md"
     }
   ],
   "omittedPaths": [],

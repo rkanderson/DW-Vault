@@ -4,18 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e9466505c2b43ecd",
+        "id": "56c6b35fa5062ba1",
         "type": "tabs",
         "children": [
           {
-            "id": "7e47a1e284683b54",
+            "id": "e4478d58485610bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "!Characters_Yagaba.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "!Characters_Yagaba.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -114,9 +120,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "!Characters_Yagaba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "4c0386d0867765f6",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
             }
           }
         ]
@@ -140,14 +155,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e47a1e284683b54",
+  "active": "e4478d58485610bb",
   "lastOpenFiles": [
+    "Extras/Templates/TEMPLATE_3-Secret Zone.md",
+    "Extras/Templates/TEMPLATE_2-Tagged Notes.md",
+    "Extras/Templates/TEMPLATE_1-Child Notes.md",
+    "Extras/Templates/TEMPLATE_0-Standard.md",
+    "!Characters_Lafayette.md",
+    "!Characters_Rostam Kobayashi.md",
+    "!Places_Deserts of Despair.md",
+    "!Characters_Yagaba.md",
+    "!Things_The Scarlet Sprouts.md",
+    "DW-Map.excalidraw.md",
+    "!Monsters_Formians.md",
+    "Extras/Pasted image 20230813222836.png",
+    "!.md",
     "!Places_Stormhaven_The Shadow District.md",
+    "💧Talking about Microscope RPG.pdf",
     "!Places_Stormhaven.md",
     "!Races_Elven Deepkin.md",
     "!Races_Ossoids.md",
-    "DW-Map.excalidraw.md",
-    "!.md",
     "!Races.md",
     "!Factions_The Grims.md",
     "!Monsters_Immolosaurs.md",
@@ -157,18 +184,8 @@
     "DW-Map.excalidraw",
     "!Monsters_The Iron Sentinels.md",
     "!Characters_Tulivel.md",
-    "!Things_The Scarlet Sprouts.md",
     "!Factions_The Circle of Night.md",
     "!Characters_Amberi.md",
-    "!Characters.md",
-    "Extras/Templates/TEMPLATE_0-Standard.md",
-    "Extras/Templates/TEMPLATE_Query Children and Tagged w separate sections for categories.md",
-    "!Gods.md",
-    "!DW_Things.md",
-    "!Characters_Mendel.md",
-    "!Players_Mark.md",
-    "!Things_The Maelstrom.md",
-    "!Characters_Thalindor the Wise.md",
     "Pasted image 20230609131818.png",
     "Pasted image 20230602133222.png",
     "Screenshot 2023-06-01 at 5.32.46 PM.png",
@@ -184,10 +201,8 @@
     "Screenshot 2023-05-09 at 2.08.02 PM.png",
     "Scanned Documents 3.pdf",
     "Scanned Documents.pdf",
-    "070 🦆 Extras/Images/Scanned Documents.pdf",
     "070 🦆 Extras/Images/Screenshot !Logs_2023-04-16 at 9.24.20 PM.png",
     "070 🦆 Extras/Images/Screenshot !Logs_2023-04-16 at 9.22.32 PM.png",
-    "070 🦆 Extras/Images/Screenshot 2023-02-26 at 3.34.50 PM.png",
     "090 📦 Archive/Old Vault Notes/An Experimental Canvas.canvas"
   ]
 }
