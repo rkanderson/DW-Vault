@@ -1,13 +1,13 @@
 ---
 
-excalidraw-plugin: raw
+excalidraw-plugin: parsed
 tags: [excalidraw]
 
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 # Text Elements
-%%***>>>text element-link:[[!Places_Stormhaven]]<<<***%%[[!Places_Stormhaven|Stormhaven]] ^bUXfjhwr
+[[!Places_Stormhaven|Stormhaven]] ^bUXfjhwr
 
 Scalefrost Headlands ^XbpyKujq
 
@@ -17,7 +17,7 @@ Sapphire Isalnds (aka Selûn) ^AyImkj5U
 
 Cursed Marshes ^ZspMLkv0
 
-Blackwater ^8r42h1qR
+[[!Places_Cursed Marshes_Blackwater | Blackwater]] ^8r42h1qR
 
 Skullridge Mountains ^ztYovczE
 
@@ -18329,7 +18329,7 @@ Deserts of Despair ^eUG4hKUM
 			"y": -79.98361254300787,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 348.6197204589844,
+			"width": 109.75990295410156,
 			"height": 25,
 			"seed": 948824233,
 			"groupIds": [],
@@ -18341,12 +18341,12 @@ Deserts of Despair ^eUG4hKUM
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "[[!Places_Stormhaven|Stormhaven]]",
+			"text": "Stormhaven",
 			"rawText": "[[!Places_Stormhaven|Stormhaven]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "[[!Places_Stormhaven|Stormhaven]]",
+			"originalText": "Stormhaven",
 			"lineHeight": 1.25,
 			"baseline": 18
 		},
@@ -32565,8 +32565,8 @@ Deserts of Despair ^eUG4hKUM
 		},
 		{
 			"type": "text",
-			"version": 95,
-			"versionNonce": 1401384380,
+			"version": 169,
+			"versionNonce": 1671471743,
 			"isDeleted": false,
 			"id": "8r42h1qR",
 			"fillStyle": "cross-hatch",
@@ -32579,24 +32579,24 @@ Deserts of Despair ^eUG4hKUM
 			"y": 137.63867126275784,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 87.42393493652344,
+			"width": 95.42393493652344,
 			"height": 20,
 			"seed": 1772343399,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1691985976304,
-			"link": null,
+			"updated": 1693539685295,
+			"link": "[[!Places_Cursed Marshes_Blackwater ]]",
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 1,
-			"text": "Blackwater",
-			"rawText": "Blackwater",
+			"text": " Blackwater",
+			"rawText": "[[!Places_Cursed Marshes_Blackwater | Blackwater]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Blackwater",
+			"originalText": " Blackwater",
 			"lineHeight": 1.25,
 			"baseline": 14
 		},
@@ -39046,41 +39046,41 @@ Deserts of Despair ^eUG4hKUM
 			]
 		},
 		{
-			"id": "eUG4hKUM",
 			"type": "text",
-			"x": 1295.7565375827348,
-			"y": 1029.4302787964275,
-			"width": 675.2769150135517,
-			"height": 87.25418247284918,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "#ffc9c9",
+			"version": 289,
+			"versionNonce": 977786589,
+			"isDeleted": false,
+			"id": "eUG4hKUM",
 			"fillStyle": "cross-hatch",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1295.7565375827348,
+			"y": 1029.4302787964275,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "#ffc9c9",
+			"width": 675.2451171875,
+			"height": 87.25418247284918,
+			"seed": 834939453,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 834939453,
-			"version": 289,
-			"versionNonce": 977786589,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1692309592429,
 			"link": null,
 			"locked": false,
-			"text": "Deserts of Despair",
-			"rawText": "Deserts of Despair",
 			"fontSize": 69.80334597827934,
 			"fontFamily": 1,
+			"text": "Deserts of Despair",
+			"rawText": "Deserts of Despair",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 62,
 			"containerId": null,
 			"originalText": "Deserts of Despair",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 62
 		}
 	],
 	"appState": {
@@ -39098,10 +39098,10 @@ Deserts of Despair ^eUG4hKUM
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 3057.969338252715,
-		"scrollY": 1948.1899989559984,
+		"scrollX": -290.7170299186324,
+		"scrollY": -136.79364455878613,
 		"zoom": {
-			"value": 0.12777208347428318
+			"value": 0.8579951708305206
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

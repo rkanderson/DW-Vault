@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "DW-Map.excalidraw",
+      "path": "DW-Map.excalidraw.md"
+    },
+    {
+      "basename": "!Places_Stormhaven",
+      "path": "!Places_Stormhaven.md"
+    },
+    {
+      "basename": "!Places_Cursed Marshes_Blackwater",
+      "path": "!Places_Cursed Marshes_Blackwater.md"
+    },
+    {
+      "basename": "!Places_Blackwater",
+      "path": "!Places_Blackwater.md"
+    },
+    {
+      "basename": "!",
+      "path": "!.md"
+    },
+    {
       "basename": "!Characters_Yagaba",
       "path": "!Characters_Yagaba.md"
+    },
+    {
+      "basename": "!Places_Stormhaven_Crystal Elevators",
+      "path": "!Places_Stormhaven_Crystal Elevators.md"
+    },
+    {
+      "basename": "!Characters_Fendler Greerbuck",
+      "path": "!Characters_Fendler Greerbuck.md"
+    },
+    {
+      "basename": "!Characters",
+      "path": "!Characters.md"
+    },
+    {
+      "basename": "!Characters_Gedric Galagan",
+      "path": "!Characters_Gedric Galagan.md"
+    },
+    {
+      "basename": "!Characters_Big-Momma Grim",
+      "path": "!Characters_Big-Momma Grim.md"
+    },
+    {
+      "basename": "!Gods_Icarianous",
+      "path": "!Gods_Icarianous.md"
+    },
+    {
+      "basename": "!Characters_Bjort the Bold",
+      "path": "!Characters_Bjort the Bold.md"
+    },
+    {
+      "basename": "!Characters_Astrafel",
+      "path": "!Characters_Astrafel.md"
+    },
+    {
+      "basename": "!Characters_Etheria",
+      "path": "!Characters_Etheria.md"
+    },
+    {
+      "basename": "!Monsters_Formians",
+      "path": "!Monsters_Formians.md"
+    },
+    {
+      "basename": "💧Talking about Microscope RPG",
+      "path": "💧Talking about Microscope RPG.pdf"
     },
     {
       "basename": "TEMPLATE_3-Secret Zone",
@@ -37,24 +101,8 @@
       "path": "!Things_The Scarlet Sprouts.md"
     },
     {
-      "basename": "DW-Map.excalidraw",
-      "path": "DW-Map.excalidraw.md"
-    },
-    {
-      "basename": "!Monsters_Formians",
-      "path": "!Monsters_Formians.md"
-    },
-    {
-      "basename": "!",
-      "path": "!.md"
-    },
-    {
       "basename": "!Places_Stormhaven_The Shadow District",
       "path": "!Places_Stormhaven_The Shadow District.md"
-    },
-    {
-      "basename": "!Places_Stormhaven",
-      "path": "!Places_Stormhaven.md"
     },
     {
       "basename": "!Races_Elven Deepkin",
@@ -85,10 +133,6 @@
       "path": "!Factions.md"
     },
     {
-      "basename": "!Characters_Bjort the Bold",
-      "path": "!Characters_Bjort the Bold.md"
-    },
-    {
       "basename": "!Monsters_The Iron Sentinels",
       "path": "!Monsters_The Iron Sentinels.md"
     },
@@ -103,10 +147,6 @@
     {
       "basename": "!Characters_Amberi",
       "path": "!Characters_Amberi.md"
-    },
-    {
-      "basename": "!Characters",
-      "path": "!Characters.md"
     },
     {
       "basename": "TEMPLATE_Query Children and Tagged w separate sections for categories",
@@ -131,14 +171,6 @@
     {
       "basename": "!Characters_Thalindor the Wise",
       "path": "!Characters_Thalindor the Wise.md"
-    },
-    {
-      "basename": "!Characters_Gedric Galagan",
-      "path": "!Characters_Gedric Galagan.md"
-    },
-    {
-      "basename": "!Characters_Big-Momma Grim",
-      "path": "!Characters_Big-Momma Grim.md"
     },
     {
       "basename": "!Characters_Hwyn (The Beastiologist)",
@@ -167,38 +199,6 @@
     {
       "basename": "!Things_Amberi's Conch",
       "path": "!Things_Amberi's Conch.md"
-    },
-    {
-      "basename": "!Monsters_Spore Servants",
-      "path": "!Monsters_Spore Servants.md"
-    },
-    {
-      "basename": "!Places_Mogravia_The Black Citadel",
-      "path": "!Places_Mogravia_The Black Citadel.md"
-    },
-    {
-      "basename": "!Places_Dzar-Ctoth",
-      "path": "!Places_Dzar-Ctoth.md"
-    },
-    {
-      "basename": "!Characters_Astrafel",
-      "path": "!Characters_Astrafel.md"
-    },
-    {
-      "basename": "!Gods_Icarianous",
-      "path": "!Gods_Icarianous.md"
-    },
-    {
-      "basename": "!Factions_The Paladins of Mogravia",
-      "path": "!Factions_The Paladins of Mogravia.md"
-    },
-    {
-      "basename": "!Places_The Cursed Marshes",
-      "path": "!Places_The Cursed Marshes.md"
-    },
-    {
-      "basename": "!Monsters_Carnigourds",
-      "path": "!Monsters_Carnigourds.md"
     }
   ],
   "omittedPaths": [],

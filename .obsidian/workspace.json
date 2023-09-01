@@ -13,14 +13,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Characters_Yagaba.md",
+                "file": "!Places_Stormhaven.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65aeaca7ffcb9e4b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DW-Map.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "6d13f13f4fe96acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Places_Cursed Marshes_Blackwater.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e212541ab12b057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Places_Stormhaven.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "667737a9bd5e8ba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Characters_Fendler Greerbuck.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!Characters_Yagaba.md",
+                "file": "DW-Map.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -120,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!Characters_Yagaba.md",
+                "file": "DW-Map.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,8 +201,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4478d58485610bb",
+  "active": "65aeaca7ffcb9e4b",
   "lastOpenFiles": [
+    "!Places_Stormhaven.md",
+    "!Places_Cursed Marshes_Blackwater.md",
+    "DW-Map.excalidraw.md",
+    "!Places_Blackwater.md",
+    "!.md",
+    "!Characters_Yagaba.md",
+    "!Places_Stormhaven_Crystal Elevators.md",
+    "!Characters_Fendler Greerbuck.md",
+    "!Characters.md",
+    "!Characters_Gedric Galagan.md",
+    "!Characters_Big-Momma Grim.md",
+    "!Gods_Icarianous.md",
+    "!Characters_Bjort the Bold.md",
+    "!Characters_Astrafel.md",
+    "!Characters_Etheria.md",
+    "!Monsters_Formians.md",
+    "💧Talking about Microscope RPG.pdf",
     "Extras/Templates/TEMPLATE_3-Secret Zone.md",
     "Extras/Templates/TEMPLATE_2-Tagged Notes.md",
     "Extras/Templates/TEMPLATE_1-Child Notes.md",
@@ -164,28 +227,11 @@
     "!Characters_Lafayette.md",
     "!Characters_Rostam Kobayashi.md",
     "!Places_Deserts of Despair.md",
-    "!Characters_Yagaba.md",
     "!Things_The Scarlet Sprouts.md",
-    "DW-Map.excalidraw.md",
-    "!Monsters_Formians.md",
     "Extras/Pasted image 20230813222836.png",
-    "!.md",
     "!Places_Stormhaven_The Shadow District.md",
-    "💧Talking about Microscope RPG.pdf",
-    "!Places_Stormhaven.md",
     "!Races_Elven Deepkin.md",
-    "!Races_Ossoids.md",
-    "!Races.md",
-    "!Factions_The Grims.md",
-    "!Monsters_Immolosaurs.md",
-    "!Monsters.md",
-    "!Factions.md",
-    "!Characters_Bjort the Bold.md",
     "DW-Map.excalidraw",
-    "!Monsters_The Iron Sentinels.md",
-    "!Characters_Tulivel.md",
-    "!Factions_The Circle of Night.md",
-    "!Characters_Amberi.md",
     "Pasted image 20230609131818.png",
     "Pasted image 20230602133222.png",
     "Screenshot 2023-06-01 at 5.32.46 PM.png",
