@@ -4,69 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "56c6b35fa5062ba1",
+        "id": "c40126494d4ff805",
         "type": "tabs",
         "children": [
           {
-            "id": "e4478d58485610bb",
+            "id": "0774e1df74980cff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Places_Stormhaven.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65aeaca7ffcb9e4b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "DW-Map.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "6d13f13f4fe96acf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!Places_Cursed Marshes_Blackwater.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e212541ab12b057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!Places_Stormhaven.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "667737a9bd5e8ba8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!Characters_Fendler Greerbuck.md",
+                "file": "!Game Journal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -149,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DW-Map.excalidraw.md",
+                "file": "!Game Journal.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -166,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DW-Map.excalidraw.md",
+                "file": "!Game Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,6 +132,16 @@
             "state": {
               "type": "QUICKSHARE_SIDE_VIEW",
               "state": {}
+            }
+          },
+          {
+            "id": "e487e3d70c254e27",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -201,16 +165,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65aeaca7ffcb9e4b",
+  "active": "0774e1df74980cff",
   "lastOpenFiles": [
-    "!Places_Stormhaven.md",
+    "!Characters_Fendler Greerbuck.md",
+    "!Monsters_Carnigourds.md",
     "!Places_Cursed Marshes_Blackwater.md",
     "DW-Map.excalidraw.md",
+    "!Characters_Rostam Kobayashi.md",
+    "!Game Journal.md",
+    "!Places_Vakia.md",
+    "!Characters_Mendel.md",
+    "!Places_Stormhaven.md",
     "!Places_Blackwater.md",
     "!.md",
     "!Characters_Yagaba.md",
     "!Places_Stormhaven_Crystal Elevators.md",
-    "!Characters_Fendler Greerbuck.md",
     "!Characters.md",
     "!Characters_Gedric Galagan.md",
     "!Characters_Big-Momma Grim.md",
@@ -225,12 +194,7 @@
     "Extras/Templates/TEMPLATE_1-Child Notes.md",
     "Extras/Templates/TEMPLATE_0-Standard.md",
     "!Characters_Lafayette.md",
-    "!Characters_Rostam Kobayashi.md",
-    "!Places_Deserts of Despair.md",
-    "!Things_The Scarlet Sprouts.md",
     "Extras/Pasted image 20230813222836.png",
-    "!Places_Stormhaven_The Shadow District.md",
-    "!Races_Elven Deepkin.md",
     "DW-Map.excalidraw",
     "Pasted image 20230609131818.png",
     "Pasted image 20230602133222.png",

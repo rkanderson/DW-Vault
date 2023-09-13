@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "DW-Map.excalidraw",
-      "path": "DW-Map.excalidraw.md"
+      "basename": "!Game Journal",
+      "path": "!Game Journal.md"
     },
     {
-      "basename": "!Places_Stormhaven",
-      "path": "!Places_Stormhaven.md"
+      "basename": "!Characters_Fendler Greerbuck",
+      "path": "!Characters_Fendler Greerbuck.md"
+    },
+    {
+      "basename": "!Monsters_Carnigourds",
+      "path": "!Monsters_Carnigourds.md"
     },
     {
       "basename": "!Places_Cursed Marshes_Blackwater",
       "path": "!Places_Cursed Marshes_Blackwater.md"
+    },
+    {
+      "basename": "DW-Map.excalidraw",
+      "path": "DW-Map.excalidraw.md"
+    },
+    {
+      "basename": "!Characters_Rostam Kobayashi",
+      "path": "!Characters_Rostam Kobayashi.md"
+    },
+    {
+      "basename": "!Places_Vakia",
+      "path": "!Places_Vakia.md"
+    },
+    {
+      "basename": "!Characters_Mendel",
+      "path": "!Characters_Mendel.md"
+    },
+    {
+      "basename": "!Places_Stormhaven",
+      "path": "!Places_Stormhaven.md"
     },
     {
       "basename": "!Places_Blackwater",
@@ -27,10 +51,6 @@
     {
       "basename": "!Places_Stormhaven_Crystal Elevators",
       "path": "!Places_Stormhaven_Crystal Elevators.md"
-    },
-    {
-      "basename": "!Characters_Fendler Greerbuck",
-      "path": "!Characters_Fendler Greerbuck.md"
     },
     {
       "basename": "!Characters",
@@ -87,10 +107,6 @@
     {
       "basename": "!Characters_Lafayette",
       "path": "!Characters_Lafayette.md"
-    },
-    {
-      "basename": "!Characters_Rostam Kobayashi",
-      "path": "!Characters_Rostam Kobayashi.md"
     },
     {
       "basename": "!Places_Deserts of Despair",
@@ -157,10 +173,6 @@
       "path": "!Gods.md"
     },
     {
-      "basename": "!Characters_Mendel",
-      "path": "!Characters_Mendel.md"
-    },
-    {
       "basename": "!Players_Mark",
       "path": "!Players_Mark.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "!Places_Vakia_Ember Isand",
       "path": "!Places_Vakia_Ember Isand.md"
-    },
-    {
-      "basename": "!Things_Lafayette's Mask",
-      "path": "!Things_Lafayette's Mask.md"
-    },
-    {
-      "basename": "!Things_Etheria's Bird Skull",
-      "path": "!Things_Etheria's Bird Skull.md"
-    },
-    {
-      "basename": "!Things_Amberi's Conch",
-      "path": "!Things_Amberi's Conch.md"
     }
   ],
   "omittedPaths": [],
